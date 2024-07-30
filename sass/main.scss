@@ -280,16 +280,15 @@ h1,h2,h3,h4,h5,h6{
         }
     }
 
-    .skill-wrapper.progress-64 .progress {
+    .skill-wrapper.progress-90 .progress {
         clip: rect(auto, auto, auto, auto);
-      }
-    .skill-wrapper.progress-64 .progress .right-side {
+    }
+    .skill-wrapper.progress-90 .progress .right-side {
         transform: rotate(180deg);
-      }
-
-    .skill-wrapper.progress-64 .progress .left-side {
-        transform: rotate(230deg);
-      }
+    }
+    .skill-wrapper.progress-90 .progress .left-side {
+        transform: rotate(306deg);
+    }
 
 
     .skill-wrapper.progress-75 .progress {
